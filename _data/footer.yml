@@ -1,21 +1,24 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
+    title: Twitter
+    url: 'https://twitter.com/login?lang=en'
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-instagram
+    title: Instagram
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
+  - icon: fa-dribbble
+    title: Dribbble
     url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
+  - icon: fa-envelope-o
+    title: Email
     url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+  - icon: fa-envelope-o
+    title: orkut
+    url: 'http://www.orkut.com/index.html'
+copyright: '&copy; All copyright''s are reserved'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Contact Us
     url: 'https://www.stackbit.com'
-    new_window: true
