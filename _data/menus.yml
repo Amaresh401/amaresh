@@ -1,1 +1,4 @@
-{}
+main:
+  - identifier: MENU
+    title: Rajesh
+    url: 'http://www.google.com'
