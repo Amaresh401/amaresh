@@ -1,6 +1,6 @@
 ---
 title: Generic Page- Amaresh
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend - Amaresh
 background_style: style5
 menus:
   main:
