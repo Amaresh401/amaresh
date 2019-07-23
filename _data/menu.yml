@@ -3,3 +3,5 @@ actions:
     url: /Registration
   - label: Sign In
     url: /SignIn
+  - label: Forgot Password
+    url: /forgotpassword
