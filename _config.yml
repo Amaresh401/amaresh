@@ -2,7 +2,7 @@ title: Amaresh
 baseurl: /
 permalink: '/:title/'
 landing_template: home
-palette: green
+palette: blue
 palettes:
   blue:
     sass:
